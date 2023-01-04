@@ -1,0 +1,2 @@
+{:deps {main [:relative "src"]
+        ext  [:git "/foo" "123456"]}}
