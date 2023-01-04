@@ -1,2 +1,7 @@
 {:deps {main [:relative "src"]
+
+            self.ext [:git "https://github.com/helins/test.cvx" "673e9376adeccea0151cee86cd613dd9401b55c5"]
+            self.int [:git "./" "673e9376adeccea0151cee86cd613dd9401b55c5"]
+
+
         ext  [:git "/foo" "123456"]}}
